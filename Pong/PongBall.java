@@ -1,4 +1,3 @@
-package Pong;
 import java.awt.Rectangle;
 import java.awt.Color;
 

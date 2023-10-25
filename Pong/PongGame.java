@@ -1,4 +1,3 @@
-package Pong;
 
 import hsa2.GraphicsConsole;
 import java.awt.Color;
